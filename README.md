@@ -1,16 +1,14 @@
-## Hi there 👋
+## Boas-vindas ao meu perfil 💸 👋
 
-<!--
-**Isacacau24/isacacau24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Isabelly 
 
-Here are some ideas to get you started:
+- Estou estudando no Alura
+- Estou me desenvovendo na linguagem JavaScript
+- UTILIZO esse espaço para minha  organização e compatilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você entrar em contato comigo 📫
+
+  00001132371557sp@al.educacao.sp.gov.br
+
+  @Isacacau24
+
